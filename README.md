@@ -1,1 +1,1 @@
-# Is-it-new-year-
+This file will tell you whether today is new year or not 
